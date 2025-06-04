@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal">#1FB8AA</color>
+    <color name="tealblue">#068995</color>
+    <color name="blue">#096BB8</color>
+    <color name="morningColor">#FFF8DC</color>      <!-- light yellow -->
+    <color name="afternoonColor">#E0F7FA</color>    <!-- light blue -->
+    <color name="eveningColor">#FFE0B2</color>      <!-- orange -->
+    <color name="nightColor">#212121</color>        <!-- dark/black -->
+
+</resources>
